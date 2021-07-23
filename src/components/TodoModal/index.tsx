@@ -58,6 +58,7 @@ const TodoModal: FC<ITodoModal> = ({
       onCancel={handleCancel}
       okText="提交"
       cancelText="取消"
+      forceRender
     >
       <Form layout="horizontal" form={form} onFinish={handleFinish}>
         <Form.Item
