@@ -25,7 +25,7 @@ const TodoItem: FC<ITodoItem> = ({
   finished,
   onUpdateStatus,
   onDelete,
-  onShowModal,
+  onShowModal
 }) => (
   <li>
     <div className={styles.item}>
