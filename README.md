@@ -28,7 +28,7 @@
 
 ```bash
 # clone
-git clone https://github.com/B2D1/TodoList.git
+git clone https://github.com/qizhou-tommy/react-ts-antd-node-mongo.git
 ```
 
 ```bash
